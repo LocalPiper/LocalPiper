@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+My name is Artem Sorokin, 3rd year student at ITMO University
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/artsor53?theme=dark&font=Aleo&ext=heatmap)
+
 <!--
 **LocalPiper/LocalPiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
