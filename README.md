@@ -1,21 +1,46 @@
 ## Hi there 👋
 
-
-My name is Artem Sorokin, 3rd year student at ITMO University
+I'm **Artem Sorokin**, a 3rd-year student at **ITMO University**, passionate about coding, problem-solving, and software development.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/artsor53?theme=dark&font=Aleo&ext=heatmap)
 
-<!--
-**LocalPiper/LocalPiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 **Languages & Tools I Use**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java** ☕
+- **Python** 🐍
+- **C++** 💻
+- **PostgreSQL** 🛢️ (I've worked with databases for various projects)
+
+---
+
+### 📚 **My Projects & Lab Works**:
+
+Check out my lab works and projects at [LocalPiperITMO](https://github.com/LocalPiperITMO) 🧑‍💻! I'm constantly learning and experimenting with new technologies, and my repository showcases my journey through various assignments and tasks.
+
+---
+
+### 🌱 **Currently Learning**:
+
+- Exploring **Web Development** technologies.
+- Enhancing my **Algorithmic Problem Solving** skills.
+
+---
+
+### 🤝 **Let's Collaborate!**
+
+I'm always open to new ideas and collaborations. If you're looking for someone to team up with on a project or need help with something, feel free to reach out!
+
+---
+
+### 📫 **How to Reach Me**:
+
+- [GitHub Profile](https://github.com/LocalPiper)
+- Email: ansorokin0103@gmail.com
+
+---
+
+### ⚡ **Fun Fact**:
+
+I solve coding problems on LeetCode to stay sharp, and I'm always up for a challenge! 🚀
