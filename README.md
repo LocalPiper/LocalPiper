@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Artem Sorokin**, a 3rd-year student at **ITMO University**, passionate about coding, problem-solving, and software development.
+I'm **Artem Sorokin**, a 4th-year student at **ITMO University**, passionate about coding, problem-solving, and software development.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/artsor53?theme=dark&font=Aleo&ext=heatmap)
 
@@ -8,11 +8,13 @@ I'm **Artem Sorokin**, a 3rd-year student at **ITMO University**, passionate abo
 
 ### 🔧 **Languages & Tools I Use**:
 
-- **Java** ☕
-- **Python** 🐍
-- **C++** 💻
-- **PostgreSQL** 🛢️ (I've worked with databases for various projects)
 
+- **C++**
+- **PostgreSQL** 🛢️ (I've worked with databases for various projects)
+- **userver**
+- **git**
+- **Flex & Bison**
+- **Java** (I'd prefer not to)
 ---
 
 ### 📚 **My Projects & Lab Works**:
@@ -23,6 +25,7 @@ Check out my lab works and projects at [LocalPiperITMO](https://github.com/Local
 
 ### 🌱 **Currently Learning**:
 
+- Trying my best with **Compiler Development**
 - Exploring **Web Development** technologies.
 - Enhancing my **Algorithmic Problem Solving** skills.
 
